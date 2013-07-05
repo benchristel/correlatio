@@ -1,0 +1,4 @@
+foo = ->
+  alert 'foo'
+
+foo()
